@@ -1,0 +1,86 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "gentelella@1.4.0",
+      "destination": "wwwroot/lib/gentelella/"
+    },
+    {
+      "library": "nprogress@0.2.0",
+      "destination": "wwwroot/lib/nprogress/"
+    },
+    {
+      "library": "bootstrap-daterangepicker@3.0.3",
+      "destination": "wwwroot/lib/bootstrap-daterangepicker/"
+    },
+    {
+      "library": "fastclick@1.0.6",
+      "destination": "wwwroot/lib/fastclick/"
+    },
+    {
+      "library": "Chart.js@2.7.3",
+      "destination": "wwwroot/lib/Chart.js/"
+    },
+    {
+      "library": "jquery-sparklines@2.1.2",
+      "destination": "wwwroot/lib/jquery-sparklines/"
+    },
+    {
+      "library": "flot@0.8.3",
+      "destination": "wwwroot/lib/flot/"
+    },
+    {
+      "library": "datejs@1.0",
+      "destination": "wwwroot/lib/datejs/"
+    },
+    {
+      "library": "moment.js@2.24.0",
+      "destination": "wwwroot/lib/moment.js/"
+    },
+    {
+      "library": "bootbox.js@4.4.0",
+      "destination": "wwwroot/lib/bootbox.js/"
+    },
+    {
+      "library": "animate.css@3.7.0",
+      "destination": "wwwroot/lib/animate.css/"
+    },
+    {
+      "library": "jquery-validate@1.19.0",
+      "destination": "wwwroot/lib/jquery-validate/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@3.2.11",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
+    },
+    {
+      "library": "mustache.js@3.0.1",
+      "destination": "wwwroot/lib/mustache.js/"
+    },
+    {
+      "library": "twbs-pagination@1.4.2",
+      "destination": "wwwroot/lib/twbs-pagination/"
+    },
+    {
+      "library": "notify@0.4.2",
+      "destination": "wwwroot/lib/notify/"
+    },
+    {
+      "library": "ckeditor@4.11.3",
+      "destination": "wwwroot/lib/ckeditor/"
+    },
+    {
+      "library": "font-awesome@5.7.2",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "jquery-treegrid@0.2.0",
+      "destination": "wwwroot/lib/jquery-treegrid/"
+    },
+    {
+      "library": "bootstrap-datepicker@1.8.0",
+      "destination": "wwwroot/lib/bootstrap-datepicker/"
+    }
+  ]
+}
